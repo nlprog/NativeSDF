@@ -1,0 +1,11 @@
+{
+    "name": "nativesdf",
+    "version": "1.0.0",
+    "displayName": "Native SDF",
+    "type": "library",
+    "dependencies": {
+      "com.unity.nuget.newtonsoft-json": "2.0.0",
+      "com.unity.collections": "1.2.4"
+    },
+    "hideInEditor": false
+  }
